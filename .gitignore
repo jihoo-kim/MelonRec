@@ -2,6 +2,7 @@
 res/
 model/
 arena_data/
+results/
 __pycache__/
 .ipynb_checkpoints/test-checkpoint.ipynb
 test.ipynb
